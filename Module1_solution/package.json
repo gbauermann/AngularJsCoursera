@@ -1,0 +1,20 @@
+{
+  "name": "module1_solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular.min.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbauermann/AngularJsCoursera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbauermann/AngularJsCoursera/issues"
+  },
+  "homepage": "https://github.com/gbauermann/AngularJsCoursera#readme"
+}
